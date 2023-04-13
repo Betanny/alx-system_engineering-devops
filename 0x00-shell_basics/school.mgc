@@ -1,3 +1,2 @@
-0 string SCHOOL School data file
-sudo mv school.mgc /usr/share/misc/
-file -m school.mgc example.dat
+0 string SCHOOL School data
+!:mime School
