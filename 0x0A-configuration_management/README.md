@@ -1,0 +1,1 @@
+Automate and manage configurations on your Ubuntu 20.04 VM with Puppet manifests. This repository includes scripts for installing Puppet, setting up modules, installing Flask, and executing commands. Simplify your configuration tasks using this collection of Puppet files.
